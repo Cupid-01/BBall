@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsnets/BladeBall/refs/heads/main/Blade-Ball-Settings"))()end)loadstring(game:HttpGet("https://raw.githubusercontent.com/adulterar/BladeBallFpsBooster/refs/heads/main/Unlock-FPS"))()
+task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsnets/Scripts/refs/heads/main/UI.lua"))()end)loadstring(game:HttpGet("https://raw.githubusercontent.com/adulterar/BladeBallFpsBooster/refs/heads/main/Unlock-FPS"))()
