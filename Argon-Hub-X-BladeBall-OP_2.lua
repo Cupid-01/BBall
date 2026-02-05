@@ -1,1 +1,0 @@
-task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsnets/Scripts/refs/heads/main/UI.lua"))()end)loadstring(game:HttpGet("https://raw.githubusercontent.com/AgentX771/ArgonHubX/main/Loader.lua"))()
